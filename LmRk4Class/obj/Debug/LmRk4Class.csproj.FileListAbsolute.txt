@@ -1,0 +1,20 @@
+C:\Users\2918bm\Desktop\LmRk4Class\LmRk4Class\bin\Debug\LmRk4Class.exe.config
+C:\Users\2918bm\Desktop\LmRk4Class\LmRk4Class\bin\Debug\LmRk4Class.exe
+C:\Users\2918bm\Desktop\LmRk4Class\LmRk4Class\bin\Debug\LmRk4Class.pdb
+C:\Users\2918bm\Desktop\LmRk4Class\LmRk4Class\obj\Debug\LmRk4Class.csprojResolveAssemblyReference.cache
+C:\Users\2918bm\Desktop\LmRk4Class\LmRk4Class\obj\Debug\LmRk4Class.Form1.resources
+C:\Users\2918bm\Desktop\LmRk4Class\LmRk4Class\obj\Debug\LmRk4Class.Properties.Resources.resources
+C:\Users\2918bm\Desktop\LmRk4Class\LmRk4Class\obj\Debug\LmRk4Class.csproj.GenerateResource.Cache
+C:\Users\2918bm\Desktop\LmRk4Class\LmRk4Class\obj\Debug\LmRk4Class.exe
+C:\Users\2918bm\Desktop\LmRk4Class\LmRk4Class\obj\Debug\LmRk4Class.pdb
+E:\All Files Folder\Simulation\After mids 7\XYZ\LmRk4Class\LmRk4Class\bin\Debug\LmRk4Class.exe.config
+E:\All Files Folder\Simulation\After mids 7\XYZ\LmRk4Class\LmRk4Class\bin\Debug\LmRk4Class.exe
+E:\All Files Folder\Simulation\After mids 7\XYZ\LmRk4Class\LmRk4Class\bin\Debug\LmRk4Class.pdb
+E:\All Files Folder\Simulation\After mids 7\XYZ\LmRk4Class\LmRk4Class\obj\Debug\LmRk4Class.csproj.AssemblyReference.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\LmRk4Class\LmRk4Class\obj\Debug\LmRk4Class.csproj.SuggestedBindingRedirects.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\LmRk4Class\LmRk4Class\obj\Debug\LmRk4Class.Form1.resources
+E:\All Files Folder\Simulation\After mids 7\XYZ\LmRk4Class\LmRk4Class\obj\Debug\LmRk4Class.Properties.Resources.resources
+E:\All Files Folder\Simulation\After mids 7\XYZ\LmRk4Class\LmRk4Class\obj\Debug\LmRk4Class.csproj.GenerateResource.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\LmRk4Class\LmRk4Class\obj\Debug\LmRk4Class.csproj.CoreCompileInputs.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\LmRk4Class\LmRk4Class\obj\Debug\LmRk4Class.exe
+E:\All Files Folder\Simulation\After mids 7\XYZ\LmRk4Class\LmRk4Class\obj\Debug\LmRk4Class.pdb
